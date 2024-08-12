@@ -1,0 +1,6 @@
+@ConsistentHashingApi_HostAddress = http://localhost:5052
+
+GET {{ConsistentHashingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
